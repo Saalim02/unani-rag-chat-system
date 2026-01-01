@@ -1,4 +1,4 @@
-### problem statement : 
+### Problem Statement : 
 -Large surgery textbooks are difficult to search efficiently during exam preparation. 
 This project uses a RAG-based LLM system to retrieve accurate, textbook-grounded answers for medical students.
 
